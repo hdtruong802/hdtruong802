@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoang Duc Truong</h1>
+<h1 align="center">Hi 👋, I'm Hoang Duc Truong. Welcome to my Github Profile!</h1>
 <!-- <h3 align="center">Currently, the main field I am studying and researching is Computer Vision.</h3> -->
 
 [![](https://visitcount.itsvg.in/api?id=hoangductruong802&icon=5&color=1)](https://visitcount.itsvg.in)
