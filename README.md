@@ -2,7 +2,7 @@
 <h3 align="center">"What doesn't kill you makes you stronger."</h3>
 <h3 align="center">Currently, my primary focus of study and research is Artificial Intelligence, with a particular emphasis on Computer Vision.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=hdtruong802&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hoangductruong802&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/hdtruong802](https://github.com/hdtruong802)
