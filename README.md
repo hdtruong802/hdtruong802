@@ -3,7 +3,7 @@
 <h3 align="center">Currently, my primary focus of study and research is Artificial Intelligence, with a particular emphasis on Computer Vision. </h3>
 <h3 align="center">I'm a member of the UTE-AI Laboratory, HCMC University of Technology and Education.</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/duc-truong-hoang/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&amp;logo=Instagram&amp;logoColor=E4405F)](https://www.instagram.com/_marco821/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/hdt802/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&amp;logo=Instagram&amp;logoColor=E4405F)](https://www.instagram.com/_marco821/) 
 
 [![](https://visitcount.itsvg.in/api?id=hdtruong802&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
